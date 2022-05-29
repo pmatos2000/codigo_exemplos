@@ -1,0 +1,15 @@
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\bin\Debug\net6.0\ienumerable.exe
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\bin\Debug\net6.0\ienumerable.deps.json
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\bin\Debug\net6.0\ienumerable.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\bin\Debug\net6.0\ienumerable.dll
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\bin\Debug\net6.0\ref\ienumerable.dll
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\bin\Debug\net6.0\ienumerable.pdb
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.dll
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ref\ienumerable.dll
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.pdb
+C:\Users\DELL\Documents\GitHub\codigo_exemplos\ienumerable\ienumerable\obj\Debug\net6.0\ienumerable.genruntimeconfig.cache
